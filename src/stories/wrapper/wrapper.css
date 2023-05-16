@@ -1,0 +1,10 @@
+.wrapper {
+  padding: 40px;
+  display: flex;
+}
+
+.wrapper__button--primarywhite,
+.wrapper__button--flatwhite,
+.wrapper__button--secondarywhite {
+  background-color: #6e41e2;
+}
